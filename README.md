@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <p align="center">
-<img id="quote1" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=6000&pause=4900&color=F71B15&width=900&height=80&lines=%22You+can't+go+back+and+change+the+beginning%3B%22" alt="Quote 1">
+<img id="quote1" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=6000&pause=4900&color=F71B15&width=900&height=80&lines="You+can't+go+back+and+change+the+beginning alt="Quote 1">
 <img id="quote2" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=5900&pause=5000&color=F71B15&width=900&height=80&lines=But+you+can+start+where+you+are+and+change+the+ending." alt="Quote 2">
 
 
