@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Mono&weight=600&size=25&pause=1000&color=F71B15&width=750&height=80&lines=You+can't+go+back+and+change+the+beginning;but+you+can+start+where+you+are+and+change+the+ending" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&duration=6000&pause=45000&color=F71B15&width=900&height=100&lines=You+can't+go+back+and+change+the+beginning%3B;but+you+can+start+where+you+are+and+change+the+ending." alt="Typing SVG">
+
 </p>
 <hr>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F71B15&width=750&height=80&lines=Choosing+to+forgive+is+choosing+to+release+yourself." alt="Typing SVG">
 </p>
@@ -11,12 +11,7 @@
 
 ## 👨‍💻 About Me
 - **Indian superman**
-<p align="left">
-  <a href="https://www.leetcode.com/nngiabao1904" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nngiabao1904" height="30" width="60" />
-    (https://leetcode.com/u/nngiabao1904/)
-  </a>
-</p>
+
 ---
 
 ## 🚀 Tech Stack
