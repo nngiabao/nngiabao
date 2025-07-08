@@ -12,10 +12,8 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🚀 I’m currently building: an E-commerce site, a chatbot using OpenAI, and a COVID data tracker.  
-- 🌱 Currently learning: Spring Security, Kubernetes, AWS  
-- 💬 Ask me about: Java, Spring Boot, REST APIs, SQL  
+- **Indian superman**
+- 🌱 Currently learning: Kubernetes, AWS  
 - 📫 Reach me at: **2905864@vikes.csuohio.edu**
 
 ---
@@ -31,18 +29,27 @@
 ---
 
 ## 🚀 Tech Stack
-<h3 align="left">Languages and Tools:</h3>
+
 <!-- Your full tech stack icons section goes here -->
 ### **Front-end**
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
+</p>
+---
 ### **Back-end**
 
-### **DevOps & Tools **
+---
+### **Database** 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+---
+### **DevOps & Tools**
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
 
 ---
