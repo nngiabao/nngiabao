@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <p align="center">
-<img id="quote1" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=6500&pause=1000&color=F71B15&width=800&height=80&lines=You+can't+go+back+and+change+the+beginning;" alt="Quote 1">
-<img id="quote2" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=6000&pause=45000&color=F71B15&width=800&height=80&lines=but+you+can+start+where+you+are+and+change+the+ending." alt="Quote 2">
+&nbsp;&nbsp;<img id="quote1" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=6500&pause=1000&color=F71B15&width=800&height=80&lines=You+can't+go+back+and+change+the+beginning;" alt="Quote 1">
+<img id="quote2" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=6000&pause=45000&color=F71B15&width=800&height=80&lines=but+you+can+start+where+you+are+and+change+the+ending." alt="Quote 2">
 
 
 </p>
@@ -13,8 +13,6 @@
 
 ## 👨‍💻 About Me
 - **Indian superman**
-
----
 
 ## 🚀 Tech Stack
 
@@ -28,25 +26,23 @@
 
 ### **Back-end**
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="60" height="60"/> </a> </a>&nbsp;&nbsp;
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
-  
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>&nbsp;&nbsp;
+
 ---
 
 ### **Database** 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
- <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> &nbsp;&nbsp;
+ <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a>&nbsp;&nbsp;
 ---
 
 ### **DevOps & Tools(Fundamental)**
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>&nbsp;&nbsp;
   
-
 ---
 
 ## 📊 GitHub Stats
@@ -54,8 +50,4 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nngiabao&show_icons=true&locale=en&layout=compact" alt="nngiabao" />
 </p>
-
----
-
-## 🌟 Quotes
 
