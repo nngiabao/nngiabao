@@ -1,31 +1,22 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
-<h3 align="center">Indian superman</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Mono&weight=600&size=25&pause=1000&color=F71B15&width=750&height=80&lines=You+can't+go+back+and+change+the+beginning;but+you+can+start+where+you+are+and+change+the+ending" />
+</p>
+<hr>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=600&size=25&pause=1000&color=F71B15&width=750&height=80&lines=%22You+can't+go+back+and+change+the+beginning;but+you+can+start+where+you+are+and+change+the+ending%22)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F71B15&width=750&height=80&lines=Choosing+to+forgive+is+choosing+to+release+yourself." alt="Typing SVG">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nngiabao&label=Profile%20views&color=0e75b6&style=flat" alt="nngiabao" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 - **Indian superman**
-- 🌱 Currently learning: Kubernetes, AWS  
-- 📫 Reach me at: **2905864@vikes.csuohio.edu**
-
----
-
-## 🔗 Connect with Me
-
 <p align="left">
   <a href="https://www.leetcode.com/nngiabao1904" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nngiabao1904" height="30" width="60" />
+    (https://leetcode.com/u/nngiabao1904/)
   </a>
 </p>
-
 ---
 
 ## 🚀 Tech Stack
