@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&duration=6000&pause=45000&color=F71B15&width=900&height=100&lines=You+can't+go+back+and+change+the+beginning%3B;but+you+can+start+where+you+are+and+change+the+ending." alt="Typing SVG">
+ <img id="quote1" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=6000&pause=1000&color=F71B15&width=800&height=80&lines=You+can't+go+back+and+change+the+beginning;" alt="Quote 1">
+
+<img id="quote2" style="display:none;" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=6000&pause=45000&color=F71B15&width=800&height=80&lines=but+you+can+start+where+you+are+and+change+the+ending." alt="Quote 2">
+
+<script>
+  setTimeout(() => {
+    document.getElementById("quote2").style.display = "block";
+  }, 10000); // 10 seconds delay
+</script>
 
 </p>
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F71B15&width=750&height=80&lines=Choosing+to+forgive+is+choosing+to+release+yourself." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=45000&color=F71B15&width=750&height=80&lines=Choosing+to+forgive+is+choosing+to+release+yourself." alt="Typing SVG">
 </p>
 ---
 
